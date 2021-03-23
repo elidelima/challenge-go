@@ -1,4 +1,4 @@
-# STAGE 1 - criar binário do go
+# STAGE 1 - execute build
 FROM golang:alpine AS builder
 
 WORKDIR /go/app
