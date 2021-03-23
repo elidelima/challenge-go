@@ -1,4 +1,4 @@
-# STAGE 1 - execute build
+# STAGE 1 - executar build
 FROM golang:alpine AS builder
 
 WORKDIR /go/app
